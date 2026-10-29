@@ -1,5 +1,11 @@
 # Vintage Couture: Data-Driven Strategies for Sustainable Growth
 
+**At a glance**
+- **Question:** where is a growing vintage clothing retailer making its money, and what should it change to keep growing?
+- **Data:** sales, payment, location and customer records for Vintage Couture, a Nigerian boutique retailer
+- **Tools:** Power BI (data cleaning, modelling and an interactive report)
+- **What I found:** ₦18.41 million in total revenue; online sales brought in ₦10 million of it; young adults were the biggest spending group and the South-South region led on revenue
+
 ## Introduction
 Vintage Couture, a boutique retailer of unique vintage clothes, has captured the hearts of fashion enthusiasts and collectors alike. As trends for sustainable and retro fashion rise, the company has scaled up its physical and online presence to meet growing demand. However, scaling operations introduced challenges in inventory optimization, customer engagement, and marketing strategy refinement. This report uses data analysis to find actionable insights that will lead the company toward continued growth in the competitive vintage fashion market.
 
